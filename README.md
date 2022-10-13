@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Kumar Rana
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning ReactJs and Next.js
+- 💞️ I’m looking to collaborate on Frontend Development
 - 📫 How to reach me er.ranahimanshu@gmail.com
 
 <!---
