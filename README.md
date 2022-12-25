@@ -1,5 +1,3 @@
-![](https://github.com/user/banner.png)
-
 
 - 👋 Hi, I’m Himanshu Kumar Rana
 - 👀 I’m interested in Frontend Development
