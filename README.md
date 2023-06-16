@@ -5,7 +5,7 @@
 
 * 🔭 I’m currently upgrading my Skills
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently enhancing my ReactJs and Next.js
+- 🌱 I’m currently enhancing my ReactJs and Next.js skills
 - 💞️ I’m looking to collaborate on Frontend Development
 - 📫 How to reach me er.ranahimanshu@gmail.com
 
